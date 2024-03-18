@@ -1,0 +1,6 @@
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\bin\Debug\DeliveriesRegistersModelos.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\bin\Debug\DeliveriesRegistersModelos.pdb
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\obj\Debug\DeliveriesRegistersModelos.csproj.CoreCompileInputs.cache
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\obj\Debug\DeliveriesRegistersModelos.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\obj\Debug\DeliveriesRegistersModelos.pdb
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModelos\obj\Debug\DeliveriesRegistersModelos.csproj.AssemblyReference.cache

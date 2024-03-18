@@ -1,0 +1,12 @@
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\bin\Debug\net5.0\DeliveriesRegistersModels.deps.json
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\bin\Debug\net5.0\DeliveriesRegistersModels.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\bin\Debug\net5.0\ref\DeliveriesRegistersModels.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\bin\Debug\net5.0\DeliveriesRegistersModels.pdb
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.csproj.AssemblyReference.cache
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.AssemblyInfoInputs.cache
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.AssemblyInfo.cs
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.csproj.CoreCompileInputs.cache
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\ref\DeliveriesRegistersModels.dll
+C:\Users\nafer.hernandez\source\repos\DeliveriesRegisters\DeliveriesRegistersModels\obj\Debug\net5.0\DeliveriesRegistersModels.pdb

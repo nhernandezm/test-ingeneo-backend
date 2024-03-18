@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0iPsbmj1Gbgaf/2w4cSuTTnGmMfEx4OVMuhbOzRaQVyW1af3gCiJACgFsJitaFkk8ynuBF6ebiyg6k9aLFECZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegisters\\DeliveriesRegisters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

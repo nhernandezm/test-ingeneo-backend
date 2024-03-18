@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DeliveriesRegistersModelos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DeliveriesRegistersModelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveriesRegistersModelos.dll": {}
+        }
+      },
+      "DeliveriesRegistersRepository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DeliveriesRegistersModelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeliveriesRegistersRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveriesRegistersRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveriesRegistersModelos/1.0.0": {
+      "type": "project",
+      "path": "../DeliveriesRegistersModelos/DeliveriesRegistersModelos.csproj",
+      "msbuildProject": "../DeliveriesRegistersModelos/DeliveriesRegistersModelos.csproj"
+    },
+    "DeliveriesRegistersRepository/1.0.0": {
+      "type": "project",
+      "path": "../DeliveriesRegistersRepository/DeliveriesRegistersRepository.csproj",
+      "msbuildProject": "../DeliveriesRegistersRepository/DeliveriesRegistersRepository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DeliveriesRegistersRepository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nafer.hernandez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegistersBussines\\DeliveriesRegistersBussines.csproj",
+      "projectName": "DeliveriesRegistersBussines",
+      "projectPath": "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegistersBussines\\DeliveriesRegistersBussines.csproj",
+      "packagesPath": "C:\\Users\\nafer.hernandez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegistersBussines\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nafer.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegistersRepository\\DeliveriesRegistersRepository.csproj": {
+              "projectPath": "C:\\Users\\nafer.hernandez\\source\\repos\\DeliveriesRegisters\\DeliveriesRegistersRepository\\DeliveriesRegistersRepository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

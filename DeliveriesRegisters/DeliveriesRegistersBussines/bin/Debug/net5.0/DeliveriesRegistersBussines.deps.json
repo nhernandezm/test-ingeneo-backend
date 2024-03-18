@@ -1,0 +1,244 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DeliveriesRegistersBussines/1.0.0": {
+        "dependencies": {
+          "DeliveriesRegistersRepository": "1.0.0"
+        },
+        "runtime": {
+          "DeliveriesRegistersBussines.dll": {}
+        }
+      },
+      "DeliveriesRegistersModelos/1.0.0": {
+        "runtime": {
+          "DeliveriesRegistersModelos.dll": {}
+        }
+      },
+      "DeliveriesRegistersRepository/1.0.0": {
+        "dependencies": {
+          "DeliveriesRegistersModelos": "1.0.0"
+        },
+        "runtime": {
+          "DeliveriesRegistersRepository.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore/3.1.18.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/3.1.18.0": {
+        "runtime": {
+          "Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.1.18.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.0.0.0": {
+        "runtime": {
+          "Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/3.1.18.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Bcl.HashCode/1.0.0.0": {
+        "runtime": {
+          "Microsoft.Bcl.HashCode.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.20.56604"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Npgsql/4.1.9.0": {
+        "runtime": {
+          "Npgsql.dll": {
+            "assemblyVersion": "4.1.9.0",
+            "fileVersion": "4.1.9.0"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Relational/3.1.18.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.Relational.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.18.0": {
+        "runtime": {
+          "Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36403"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveriesRegistersBussines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveriesRegistersModelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveriesRegistersRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Caching.Abstractions/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.HashCode/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Caching.Memory/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql/4.1.9.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Relational/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.18.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
